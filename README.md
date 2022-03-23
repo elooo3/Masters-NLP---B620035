@@ -17,3 +17,4 @@
       anger,_joy,_fear_CNN.ipynb - examining the effect of reducing the number of emotion classes to four classes (anger, joy, fear and others) 
       anger,_joy,_fear_sadness_CNN.ipynb - examining the effect of reducing the number of emotion classes to five classes (anger, joy, fear, sadness and others)
          
+Please get in touch via linkedin to find out more on this project
